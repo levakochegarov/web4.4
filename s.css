@@ -1,0 +1,41 @@
+.title {
+    font-size: 45px;
+    font-weight: 900;
+    color: aliceblue;
+    text-align: center;
+    margin: 0 0 10px 0;
+    box-shadow: none;
+}
+
+div {
+    height: 50px;
+    /*box-shadow: 0px 10px 10000px 10px yellow;*/
+}
+
+.red {
+    background: red;
+}
+
+.or {
+    background: orange;
+}
+
+.y {
+    background: yellow;
+}
+
+.g {
+    background: green;
+}
+
+.lb {
+    background: lightblue;
+}
+
+.b {
+    background: blue;
+}
+
+.pr {
+    background: purple;
+}
